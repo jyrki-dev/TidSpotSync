@@ -30,6 +30,7 @@ will be informed in the action conclusion report.
 ## Planned Features
 
 - [ ] Rewrite in TypeScript, following OOP / Clean Architecture paradigms more strictly.
+- [ ] Encrypted .env files
 - [ ] Cross platform compatible Chromium wrapper / desktop application
 - [ ] Containerisation with Docker
 - [ ] Chromium extension
