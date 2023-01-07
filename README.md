@@ -29,7 +29,7 @@ will be informed in the action conclusion report.
 
 ## Planned Features
 
-- [ ] Cross platform compatible Chromium wrapper / desktop application
+- [ ] **Cross _platform_ compatible** Chromium wrapper / desktop application
 
 ## Getting Started
 
@@ -38,11 +38,11 @@ will be informed in the action conclusion report.
 - NodeJS (version >= 17.9.0 )
 - npm (version >= 8.5.5)
 - Google Chrome / Chromium / Firefox / Microsoft Edge
-- macOS / Linux / Windows (tested in macOS & Linux)
+- macOS / Linux (untested Windows)
 
 ### Installing
 
-*To be changed*
+*To be changed* <!-- TODO: Update this -->
 
 1. Clone the repository: `git clone https://github.com/jyjokokk/TidSpotSync.git`
 2. Enter the cloned repository: `cd TidSpotSync`
@@ -68,4 +68,4 @@ Currently only in the documentation.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details
+This project is licensed under the MIT License - see the [LICENCE](LICENCE) file for details
