@@ -1,14 +1,7 @@
 # TODO
 
-## Project Structure / Repository
-
 - [x] Switch from npm to yarn
-- [ ] Copy / setup package.json (scripts, configs and info)
-- [ ] Copy project setup files over from noTidalAPI (.tsconfig, .prettierrc, etc.)
-- [ ] Decide stack and setup project structure
-- [ ] Move over noTidalAPI funtionality for now (split to own project when relevant)
-
-## Features
-
-[ ] HTTP Util (maybe even another util one for Axios request handling)
-[ ] Entity classes / Interfaces
+- [x] Copy / setup package.json (scripts, configs and info)
+- [x] Copy project setup files over from noTidalAPI (.tsconfig, .prettierrc, etc.)
+- [x] Decide stack and setup project structure
+- [x] Move over noTidalAPI funtionality for now (split to own project when relevant)

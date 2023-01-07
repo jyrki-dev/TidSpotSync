@@ -33,11 +33,11 @@ will be informed in the action conclusion report.
 
 ## Getting Started
 
-### Dependencies
+### Requirements & dependencies
 
-- NodeJS (version >= 17.9.0 )
-- npm (version >= 8.5.5)
-- Google Chrome / Chromium / Firefox / Microsoft Edge
+- NodeJS (version >= V18 )
+- yarn (version >= 1.2.0) or npm (version >= 8.5.5)
+- Chromium based browser / Firefox
 - macOS / Linux (untested Windows)
 
 ### Installing
