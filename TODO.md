@@ -1,8 +1,7 @@
 # TODO
 
-1. Project folder structure
-    - Git branch for sketching
-2. Backend functionality
-3. Tests for TDD like development
-    - Create mocks for Spotify & Tidal connections
-4. ESLint config
+[x] Switch from npm to yarn
+[ ] Copy / setup package.json (scripts, configs and info)
+[ ] Copy project setup files over from noTidalAPI (.tsconfig, .prettierrc, etc.)
+[ ] Decide stack and setup project structure
+[ ] Move over noTidalAPI funtionality for now (split to own project when relevant)

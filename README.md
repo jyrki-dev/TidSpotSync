@@ -29,20 +29,16 @@ will be informed in the action conclusion report.
 
 ## Planned Features
 
-- [ ] Rewrite in TypeScript, following OOP / Clean Architecture paradigms more strictly.
-- [ ] Encrypted .env files
 - [ ] Cross platform compatible Chromium wrapper / desktop application
-- [ ] Containerisation with Docker
-- [ ] Chromium extension
 
 ## Getting Started
 
 ### Dependencies
 
-* NodeJS (version >= 17.9.0 )
-* npm (version >= 8.5.5)
-* Google Chrome / Chromium / Firefox / Microsoft Edge
-* macOS / Linux / Windows (tested in macOS & Linux)
+- NodeJS (version >= 17.9.0 )
+- npm (version >= 8.5.5)
+- Google Chrome / Chromium / Firefox / Microsoft Edge
+- macOS / Linux / Windows (tested in macOS & Linux)
 
 ### Installing
 
@@ -67,8 +63,8 @@ Currently only in the documentation.
 
 ## Version History
 
-* 0.1
-    * Initial Release
+- 0.1
+  - Initial Release
 
 ## License
 
