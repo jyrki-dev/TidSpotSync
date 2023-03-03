@@ -6,9 +6,13 @@ export class PlaylistEntity {
   name: string;
   description?: string;
   tracks: Track[];
-  // TODO: make calculated
   trackCount: number;
   totalLength: number;
   createdBy?: User;
   createdAt?: Date;
+
+  updateTrackCount(): number {
+    this.trackCount = this.tracks.length - 1;
+    return this.trackCount;
+  }
 }
